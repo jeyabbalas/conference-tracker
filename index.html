@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Conference Tracker</title>
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title">Conference Tracker</h1>
+      <p class="site-subtitle">Academic conferences across biomedical informatics, AI, epidemiology & cancer research</p>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="controls" aria-label="Filter and sort controls">
+      <div id="filter-bar" class="filter-bar"></div>
+      <div class="search-controls">
+        <label for="search-input" class="search-label">Search</label>
+        <input type="search" id="search-input" class="search-input"
+               placeholder="Search by name or abbreviation..." autocomplete="off">
+      </div>
+      <div class="sort-controls">
+        <label for="sort-select" class="sort-label">Sort by</label>
+        <select id="sort-select" class="sort-select">
+          <option value="deadline">Submission Deadline</option>
+          <option value="name">Name (A–Z)</option>
+          <option value="date">Conference Date</option>
+        </select>
+      </div>
+    </section>
+
+    <p id="results-count" class="results-count"></p>
+
+    <section id="card-grid" class="card-grid" aria-label="Conference cards"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Deadlines are displayed in your local timezone. Data sourced from official conference websites.</p>
+    </div>
+  </footer>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

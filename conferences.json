@@ -1,0 +1,564 @@
+{
+  "conferences": [
+    {
+      "id": "amia-annual",
+      "abbreviation": "AMIA Annual",
+      "fullName": "AMIA Annual Symposium",
+      "category": "Biomedical Informatics",
+      "submissionDeadline": "2026-03-11T04:59:00",
+      "website": "https://amia.org/education-events/amia-2026-annual-symposium",
+      "notes": null,
+      "location": {
+        "raw": "Dallas, TX",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/dallas-texas",
+        "googleMapsUrl": "https://www.google.com/maps/search/Dallas%2C+TX",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/dallas-texas"
+      },
+      "conferenceDateStart": "2026-11-07",
+      "conferenceDateEnd": "2026-11-11",
+      "conferenceDateDisplay": "Nov 7–11, 2026"
+    },
+    {
+      "id": "amia-amplify-informatics",
+      "abbreviation": "AMIA Amplify Informatics",
+      "fullName": "AMIA Amplify Informatics Conference",
+      "category": "Biomedical Informatics",
+      "submissionDeadline": "2025-12-03T04:59:00",
+      "website": "https://amia.org/education-events/amplify-informatics-conference",
+      "notes": null,
+      "location": {
+        "raw": "Denver, CO",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/denver-colorado",
+        "googleMapsUrl": "https://www.google.com/maps/search/Denver%2C+CO",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/denver-colorado"
+      },
+      "conferenceDateStart": "2026-05-18",
+      "conferenceDateEnd": "2026-05-21",
+      "conferenceDateDisplay": "May 18–21, 2026"
+    },
+    {
+      "id": "medinfo",
+      "abbreviation": "MedInfo",
+      "fullName": "World Congress on Medical and Health Informatics",
+      "category": "Biomedical Informatics",
+      "submissionDeadline": null,
+      "website": "https://www.medinfo2027.org/",
+      "notes": null,
+      "location": {
+        "raw": "Dubai, UAE",
+        "country": "United Arab Emirates",
+        "flagEmoji": "🇦🇪",
+        "unsplashUrl": "https://unsplash.com/s/photos/dubai",
+        "googleMapsUrl": "https://www.google.com/maps/search/Dubai%2C+UAE",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/dubai-united-arab-emirates"
+      },
+      "conferenceDateStart": "2027-08-30",
+      "conferenceDateEnd": "2027-09-04",
+      "conferenceDateDisplay": "Aug 30 – Sep 4, 2027"
+    },
+    {
+      "id": "psb",
+      "abbreviation": "PSB",
+      "fullName": "Pacific Symposium on Biocomputing",
+      "category": "Biomedical Informatics",
+      "submissionDeadline": "2026-08-04T04:59:00",
+      "website": "https://psb.stanford.edu/",
+      "notes": null,
+      "location": {
+        "raw": "Big Island, HI",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/big-island-hawaii",
+        "googleMapsUrl": "https://www.google.com/maps/search/Big+Island%2C+HI",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/hawaii"
+      },
+      "conferenceDateStart": "2027-01-03",
+      "conferenceDateEnd": "2027-01-07",
+      "conferenceDateDisplay": "Jan 3–7, 2027"
+    },
+    {
+      "id": "ahli-chil",
+      "abbreviation": "AHLI-CHIL",
+      "fullName": "Association for Health Learning and Inference - Conference on Health, Inference, and Learning",
+      "category": "Biomedical Informatics",
+      "submissionDeadline": "2026-02-05T04:59:00",
+      "website": "https://chil.ahli.cc/",
+      "notes": null,
+      "location": {
+        "raw": "Seattle, WA",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/seattle",
+        "googleMapsUrl": "https://www.google.com/maps/search/Seattle%2C+WA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/seattle-washington"
+      },
+      "conferenceDateStart": "2026-06-28",
+      "conferenceDateEnd": "2026-06-30",
+      "conferenceDateDisplay": "Jun 28–30, 2026"
+    },
+    {
+      "id": "ismb",
+      "abbreviation": "ISMB",
+      "fullName": "Intelligent Systems for Molecular Biology",
+      "category": "Bioinformatics",
+      "submissionDeadline": "2026-01-21T04:59:00",
+      "website": "https://www.iscb.org/ismb2026/home",
+      "notes": null,
+      "location": {
+        "raw": "Washington, DC",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/washington-dc",
+        "googleMapsUrl": "https://www.google.com/maps/search/Washington%2C+DC",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/washington-dc"
+      },
+      "conferenceDateStart": "2026-07-12",
+      "conferenceDateEnd": "2026-07-16",
+      "conferenceDateDisplay": "Jul 12–16, 2026"
+    },
+    {
+      "id": "eccb",
+      "abbreviation": "ECCB",
+      "fullName": "European Conference on Computational Biology",
+      "category": "Bioinformatics",
+      "submissionDeadline": "2026-03-06T04:59:00",
+      "website": "https://eccb2026.org/",
+      "notes": null,
+      "location": {
+        "raw": "Geneva, Switzerland",
+        "country": "Switzerland",
+        "flagEmoji": "🇨🇭",
+        "unsplashUrl": "https://unsplash.com/s/photos/geneva-switzerland",
+        "googleMapsUrl": "https://www.google.com/maps/search/Geneva%2C+Switzerland",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/geneva-switzerland"
+      },
+      "conferenceDateStart": "2026-08-31",
+      "conferenceDateEnd": "2026-09-04",
+      "conferenceDateDisplay": "Aug 31 – Sep 4, 2026"
+    },
+    {
+      "id": "recomb",
+      "abbreviation": "RECOMB",
+      "fullName": "Research in Computational Molecular Biology",
+      "category": "Bioinformatics",
+      "submissionDeadline": "2025-11-21T04:59:00",
+      "website": "http://recomb.org/recomb2026/",
+      "notes": null,
+      "location": {
+        "raw": "Thessaloniki, Greece",
+        "country": "Greece",
+        "flagEmoji": "🇬🇷",
+        "unsplashUrl": "https://unsplash.com/s/photos/thessaloniki-greece",
+        "googleMapsUrl": "https://www.google.com/maps/search/Thessaloniki%2C+Greece",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/thessaloniki-greece"
+      },
+      "conferenceDateStart": "2026-05-26",
+      "conferenceDateEnd": "2026-05-29",
+      "conferenceDateDisplay": "May 26–29, 2026"
+    },
+    {
+      "id": "bibm",
+      "abbreviation": "BIBM",
+      "fullName": "IEEE International Conference on Bioinformatics and Biomedicine",
+      "category": "Bioinformatics",
+      "submissionDeadline": "2026-07-06T04:59:00",
+      "website": "https://www3.cs.stonybrook.edu/~bibm2026/",
+      "notes": null,
+      "location": {
+        "raw": "Dallas, TX",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/dallas-texas",
+        "googleMapsUrl": "https://www.google.com/maps/search/Dallas%2C+TX",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/dallas-texas"
+      },
+      "conferenceDateStart": "2026-12-01",
+      "conferenceDateEnd": "2026-12-04",
+      "conferenceDateDisplay": "Dec 1-4, 2026"
+    },
+    {
+      "id": "neurips",
+      "abbreviation": "NeurIPS",
+      "fullName": "Conference on Neural Information Processing Systems",
+      "category": "Artificial Intelligence",
+      "submissionDeadline": "2026-05-08T04:59:00",
+      "website": "https://neurips.cc/",
+      "notes": null,
+      "location": {
+        "raw": "Sydney, Australia",
+        "country": "Australia",
+        "flagEmoji": "🇦🇺",
+        "unsplashUrl": "https://unsplash.com/s/photos/sydney-australia",
+        "googleMapsUrl": "https://www.google.com/maps/search/Sydney%2C+Australia",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/sydney-australia"
+      },
+      "conferenceDateStart": "2026-12-06",
+      "conferenceDateEnd": "2026-12-12",
+      "conferenceDateDisplay": "Dec 6–12, 2026"
+    },
+    {
+      "id": "icml",
+      "abbreviation": "ICML",
+      "fullName": "International Conference on Machine Learning",
+      "category": "Artificial Intelligence",
+      "submissionDeadline": "2026-01-29T04:59:00",
+      "website": "https://icml.cc/Conferences/2026",
+      "notes": null,
+      "location": {
+        "raw": "Seoul, South Korea",
+        "country": "South Korea",
+        "flagEmoji": "🇰🇷",
+        "unsplashUrl": "https://unsplash.com/s/photos/seoul-south-korea",
+        "googleMapsUrl": "https://www.google.com/maps/search/Seoul%2C+South+Korea",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/seoul-south-korea"
+      },
+      "conferenceDateStart": "2026-07-06",
+      "conferenceDateEnd": "2026-07-11",
+      "conferenceDateDisplay": "Jul 6–11, 2026"
+    },
+    {
+      "id": "iclr",
+      "abbreviation": "ICLR",
+      "fullName": "International Conference on Learning Representations",
+      "category": "Artificial Intelligence",
+      "submissionDeadline": "2025-09-25T04:59:00",
+      "website": "https://iclr.cc/Conferences/2026",
+      "notes": null,
+      "location": {
+        "raw": "Rio de Janeiro, Brazil",
+        "country": "Brazil",
+        "flagEmoji": "🇧🇷",
+        "unsplashUrl": "https://unsplash.com/s/photos/rio-de-janeiro",
+        "googleMapsUrl": "https://www.google.com/maps/search/Rio+de+Janeiro%2C+Brazil",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/rio-de-janeiro-brazil"
+      },
+      "conferenceDateStart": "2026-04-23",
+      "conferenceDateEnd": "2026-04-27",
+      "conferenceDateDisplay": "Apr 23–27, 2026"
+    },
+    {
+      "id": "aaai",
+      "abbreviation": "AAAI",
+      "fullName": "AAAI Conference on Artificial Intelligence",
+      "category": "Artificial Intelligence",
+      "submissionDeadline": "2026-08-02T04:59:00",
+      "website": "https://aaai.org/conference/aaai/aaai-26/",
+      "notes": null,
+      "location": {
+        "raw": "Montréal, Canada",
+        "country": "Canada",
+        "flagEmoji": "🇨🇦",
+        "unsplashUrl": "https://unsplash.com/s/photos/montreal-canada",
+        "googleMapsUrl": "https://www.google.com/maps/search/Montr%C3%A9al%2C+Canada",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/montreal-quebec"
+      },
+      "conferenceDateStart": "2027-02-16",
+      "conferenceDateEnd": "2027-02-23",
+      "conferenceDateDisplay": "Feb 16–23, 2027"
+    },
+    {
+      "id": "cvpr",
+      "abbreviation": "CVPR",
+      "fullName": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+      "category": "Artificial Intelligence",
+      "submissionDeadline": "2025-11-14T04:59:00",
+      "website": "https://cvpr.thecvf.com/",
+      "notes": null,
+      "location": {
+        "raw": "Denver, CO",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/denver-colorado",
+        "googleMapsUrl": "https://www.google.com/maps/search/Denver%2C+CO",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/denver-colorado"
+      },
+      "conferenceDateStart": "2026-06-03",
+      "conferenceDateEnd": "2026-06-07",
+      "conferenceDateDisplay": "Jun 3–7, 2026"
+    },
+    {
+      "id": "acl",
+      "abbreviation": "ACL",
+      "fullName": "Annual Meeting of the Association for Computational Linguistics",
+      "category": "Artificial Intelligence",
+      "submissionDeadline": "2026-01-06T04:59:00",
+      "website": "https://2026.aclweb.org/",
+      "notes": "Uses ACL Rolling Review submission system.",
+      "location": {
+        "raw": "San Diego, CA",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/san-diego-california",
+        "googleMapsUrl": "https://www.google.com/maps/search/San+Diego%2C+CA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-diego-california"
+      },
+      "conferenceDateStart": "2026-07-02",
+      "conferenceDateEnd": "2026-07-07",
+      "conferenceDateDisplay": "Jul 2–7, 2026"
+    },
+    {
+      "id": "emnlp",
+      "abbreviation": "EMNLP",
+      "fullName": "Conference on Empirical Methods in Natural Language Processing",
+      "category": "Artificial Intelligence",
+      "submissionDeadline": "2026-05-26T04:59:00",
+      "website": "https://2026.emnlp.org/",
+      "notes": "Uses ACL Rolling Review submission system.",
+      "location": {
+        "raw": "Budapest, Hungary",
+        "country": "Hungary",
+        "flagEmoji": "🇭🇺",
+        "unsplashUrl": "https://unsplash.com/s/photos/budapest-hungary",
+        "googleMapsUrl": "https://www.google.com/maps/search/Budapest%2C+Hungary",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/budapest-hungary"
+      },
+      "conferenceDateStart": "2026-10-24",
+      "conferenceDateEnd": "2026-10-29",
+      "conferenceDateDisplay": "Oct 24–29, 2026"
+    },
+    {
+      "id": "kdd",
+      "abbreviation": "KDD",
+      "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "category": "Artificial Intelligence",
+      "submissionDeadline": "2026-02-09T04:59:00",
+      "website": "https://kdd2026.kdd.org/",
+      "notes": "KDD has two submission cycles, first in February and second in July. ",
+      "location": {
+        "raw": "Jeju, South Korea",
+        "country": "South Korea",
+        "flagEmoji": "🇰🇷",
+        "unsplashUrl": "https://unsplash.com/s/photos/jeju-island-south-korea",
+        "googleMapsUrl": "https://www.google.com/maps/search/Jeju%2C+South+Korea",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/jeju-si-south-korea"
+      },
+      "conferenceDateStart": "2026-08-09",
+      "conferenceDateEnd": "2026-08-13",
+      "conferenceDateDisplay": "Aug 9–13, 2026"
+    },
+    {
+      "id": "miccai",
+      "abbreviation": "MICCAI",
+      "fullName": "Medical Image Computing and Computer Assisted Intervention",
+      "category": "Artificial Intelligence for Health",
+      "submissionDeadline": "2026-02-27T04:59:00",
+      "website": "https://conferences.miccai.org/2026/en/default.asp",
+      "notes": null,
+      "location": {
+        "raw": "Abu Dhabi, UAE",
+        "country": "United Arab Emirates",
+        "flagEmoji": "🇦🇪",
+        "unsplashUrl": "https://unsplash.com/s/photos/abu-dhabi",
+        "googleMapsUrl": "https://www.google.com/maps/search/Abu+Dhabi%2C+UAE",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/abu-dhabi-united-arab-emirates"
+      },
+      "conferenceDateStart": "2026-10-04",
+      "conferenceDateEnd": "2026-10-08",
+      "conferenceDateDisplay": "Oct 4–8, 2026"
+    },
+    {
+      "id": "midl",
+      "abbreviation": "MIDL",
+      "fullName": "Medical Imaging with Deep Learning",
+      "category": "Artificial Intelligence for Health",
+      "submissionDeadline": "2025-12-11T04:59:00",
+      "website": "https://2026.midl.io/",
+      "notes": null,
+      "location": {
+        "raw": "Taipei, Taiwan",
+        "country": "Taiwan",
+        "flagEmoji": "🇹🇼",
+        "unsplashUrl": "https://unsplash.com/s/photos/taipei-taiwan",
+        "googleMapsUrl": "https://www.google.com/maps/search/Taipei%2C+Taiwan",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/taipei-taiwan"
+      },
+      "conferenceDateStart": "2026-07-08",
+      "conferenceDateEnd": "2026-07-10",
+      "conferenceDateDisplay": "Jul 8–10, 2026"
+    },
+    {
+      "id": "mlhc",
+      "abbreviation": "MLHC",
+      "fullName": "Machine Learning for Healthcare",
+      "category": "Artificial Intelligence for Health",
+      "submissionDeadline": "2026-04-18T04:59:00",
+      "website": "https://www.mlforhc.org/",
+      "notes": null,
+      "location": {
+        "raw": "Baltimore, MD",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/baltimore-maryland",
+        "googleMapsUrl": "https://www.google.com/maps/search/Baltimore%2C+MD",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/baltimore-maryland"
+      },
+      "conferenceDateStart": "2026-08-12",
+      "conferenceDateEnd": "2026-08-14",
+      "conferenceDateDisplay": "Aug 12–14, 2026"
+    },
+    {
+      "id": "ahli-ml4h",
+      "abbreviation": "AHLI-ML4H",
+      "fullName": "Association for Health Learning and Inference - Machine Learning for Health Symposium",
+      "category": "Artificial Intelligence for Health",
+      "submissionDeadline": "2025-09-09T04:59:00",
+      "website": "https://ahli.cc/ml4h/",
+      "notes": null,
+      "location": {
+        "raw": "San Diego, CA",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/san-diego-california",
+        "googleMapsUrl": "https://www.google.com/maps/search/San+Diego%2C+CA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-diego-california"
+      },
+      "conferenceDateStart": "2025-12-01",
+      "conferenceDateEnd": "2025-12-02",
+      "conferenceDateDisplay": "Dec 1–2, 2025"
+    },
+    {
+      "id": "ser",
+      "abbreviation": "SER",
+      "fullName": "Society for Epidemiologic Research Annual Meeting",
+      "category": "Epidemiology",
+      "submissionDeadline": "2026-01-14T04:59:00",
+      "website": "https://epiresearch.org/annual-meeting/",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "location": {
+        "raw": "Phoenix, AZ",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/phoenix-arizona",
+        "googleMapsUrl": "https://www.google.com/maps/search/Phoenix%2C+AZ",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/phoenix-arizona"
+      },
+      "conferenceDateStart": "2026-06-23",
+      "conferenceDateEnd": "2026-06-26",
+      "conferenceDateDisplay": "Jun 23–26, 2026"
+    },
+    {
+      "id": "apha",
+      "abbreviation": "APHA",
+      "fullName": "American Public Health Association Annual Meeting",
+      "category": "Epidemiology",
+      "submissionDeadline": "2026-04-01T04:59:00",
+      "website": "https://www.apha.org/events-and-meetings/annual",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "location": {
+        "raw": "San Antonio, TX",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/san-antonio-texas",
+        "googleMapsUrl": "https://www.google.com/maps/search/San+Antonio%2C+TX",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-antonio-texas"
+      },
+      "conferenceDateStart": "2026-11-01",
+      "conferenceDateEnd": "2026-11-04",
+      "conferenceDateDisplay": "Nov 1–4, 2026"
+    },
+    {
+      "id": "aacr-annual",
+      "abbreviation": "AACR Annual",
+      "fullName": "American Association for Cancer Research Annual Meeting",
+      "category": "Cancer Research",
+      "submissionDeadline": "2025-11-19T04:59:00",
+      "website": "https://www.aacr.org/meeting/aacr-annual-meeting-2026/",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "location": {
+        "raw": "San Diego, CA",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/san-diego-california",
+        "googleMapsUrl": "https://www.google.com/maps/search/San+Diego%2C+CA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-diego-california"
+      },
+      "conferenceDateStart": "2026-04-17",
+      "conferenceDateEnd": "2026-04-22",
+      "conferenceDateDisplay": "Apr 17–22, 2026"
+    },
+    {
+      "id": "asco-annual",
+      "abbreviation": "ASCO Annual",
+      "fullName": "American Society of Clinical Oncology Annual Meeting",
+      "category": "Cancer Research",
+      "submissionDeadline": "2026-01-28T04:59:00",
+      "website": "https://www.asco.org/annual-meeting",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "location": {
+        "raw": "Chicago, IL",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/chicago",
+        "googleMapsUrl": "https://www.google.com/maps/search/Chicago%2C+IL",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/chicago-illinois"
+      },
+      "conferenceDateStart": "2026-05-29",
+      "conferenceDateEnd": "2026-06-02",
+      "conferenceDateDisplay": "May 29 – Jun 2, 2026"
+    },
+    {
+      "id": "bcac-annual",
+      "abbreviation": "BCAC Annual",
+      "fullName": "Breast Cancer Association Consortium Annual Meeting",
+      "category": "Cancer Research",
+      "submissionDeadline": null,
+      "website": "https://www.ccge.medschl.cam.ac.uk/breast-cancer-association-consortium-bcac/meetings",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "location": {
+        "raw": "Budapest, Hungary",
+        "country": "Hungary",
+        "flagEmoji": "🇭🇺",
+        "unsplashUrl": "https://unsplash.com/s/photos/budapest-hungary",
+        "googleMapsUrl": "https://www.google.com/maps/search/Budapest%2C+Hungary",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/budapest-hungary"
+      },
+      "conferenceDateStart": "2026-06-01",
+      "conferenceDateEnd": "2026-06-04",
+      "conferenceDateDisplay": "June 1–4, 2026"
+    },
+    {
+      "id": "esmo",
+      "abbreviation": "ESMO",
+      "fullName": "European Society for Medical Oncology Congress",
+      "category": "Cancer Research",
+      "submissionDeadline": "2026-05-13T04:59:00",
+      "website": "https://www.esmo.org/meeting-calendar/esmo-congress-2026",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "location": {
+        "raw": "Madrid, Spain",
+        "country": "Spain",
+        "flagEmoji": "🇪🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/madrid-spain",
+        "googleMapsUrl": "https://www.google.com/maps/search/Madrid%2C+Spain",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/madrid-spain"
+      },
+      "conferenceDateStart": "2026-10-23",
+      "conferenceDateEnd": "2026-10-27",
+      "conferenceDateDisplay": "Oct 23–27, 2026"
+    },
+    {
+      "id": "aspo",
+      "abbreviation": "ASPO",
+      "fullName": "American Society of Preventive Oncology Annual Meeting",
+      "category": "Cancer Research",
+      "submissionDeadline": "2025-11-01T04:59:00",
+      "website": "https://aspo.org/2026-annual-meeting/",
+      "notes": null,
+      "location": {
+        "raw": "Denver, CO",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/denver-colorado",
+        "googleMapsUrl": "https://www.google.com/maps/search/Denver%2C+CO",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/denver-colorado"
+      },
+      "conferenceDateStart": "2026-04-12",
+      "conferenceDateEnd": "2026-04-14",
+      "conferenceDateDisplay": "Apr 12–14, 2026"
+    }
+  ]
+}
