@@ -5,40 +5,40 @@
       "abbreviation": "AMIA Annual",
       "fullName": "AMIA Annual Symposium",
       "category": "Biomedical Informatics",
-      "submissionDeadline": "2026-03-11T04:59:00",
-      "website": "https://amia.org/education-events/amia-2026-annual-symposium",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://amia.org/education-events/annual-symposium",
+      "notes": "AMIA 2027 Annual Symposium is in San Diego, CA. The Call for Participation is not yet open; paper/podium/panel deadlines are typically ~mid-to-late March (deadlines use Eastern Time; extensions common).",
       "location": {
-        "raw": "Dallas, TX",
+        "raw": "San Diego, CA",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/dallas-texas",
-        "googleMapsUrl": "https://www.google.com/maps/search/Dallas%2C+TX",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/dallas-texas"
+        "unsplashUrl": "https://unsplash.com/s/photos/san-diego-california",
+        "googleMapsUrl": "https://www.google.com/maps/search/San+Diego%2C+CA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-diego-california"
       },
-      "conferenceDateStart": "2026-11-07",
-      "conferenceDateEnd": "2026-11-11",
-      "conferenceDateDisplay": "Nov 7–11, 2026"
+      "conferenceDateStart": "2027-11-06",
+      "conferenceDateEnd": "2027-11-10",
+      "conferenceDateDisplay": "Nov 6–10, 2027"
     },
     {
       "id": "amia-amplify-informatics",
       "abbreviation": "AMIA Amplify Informatics",
       "fullName": "AMIA Amplify Informatics Conference",
       "category": "Biomedical Informatics",
-      "submissionDeadline": "2025-12-03T04:59:00",
+      "submissionDeadline": null,
       "website": "https://amia.org/education-events/amplify-informatics-conference",
-      "notes": null,
+      "notes": "AMIA Amplify Informatics 2027 is in Atlanta, GA. The 2027 call is not yet open; the submission deadline is typically ~November (deadlines use Eastern Time; extensions common).",
       "location": {
-        "raw": "Denver, CO",
+        "raw": "Atlanta, GA",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/denver-colorado",
-        "googleMapsUrl": "https://www.google.com/maps/search/Denver%2C+CO",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/denver-colorado"
+        "unsplashUrl": "https://unsplash.com/s/photos/atlanta-georgia",
+        "googleMapsUrl": "https://www.google.com/maps/search/Atlanta%2C+GA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/atlanta-georgia"
       },
-      "conferenceDateStart": "2026-05-18",
-      "conferenceDateEnd": "2026-05-21",
-      "conferenceDateDisplay": "May 18–21, 2026"
+      "conferenceDateStart": "2027-04-12",
+      "conferenceDateEnd": "2027-04-15",
+      "conferenceDateDisplay": "Apr 12–15, 2027"
     },
     {
       "id": "medinfo",
@@ -47,7 +47,7 @@
       "category": "Biomedical Informatics",
       "submissionDeadline": null,
       "website": "https://www.medinfo2027.org/",
-      "notes": null,
+      "notes": "Biennial (odd years). MedInfo 2027 is in Dubai. The Call for Submissions is not yet open; the deadline is typically ~December–January (historically stated in Eastern Time).",
       "location": {
         "raw": "Dubai, UAE",
         "country": "United Arab Emirates",
@@ -65,9 +65,9 @@
       "abbreviation": "PSB",
       "fullName": "Pacific Symposium on Biocomputing",
       "category": "Biomedical Informatics",
-      "submissionDeadline": "2026-08-04T04:59:00",
+      "submissionDeadline": "2026-08-03T04:59:00",
       "website": "https://psb.stanford.edu/",
-      "notes": null,
+      "notes": "Paper deadline Aug 3, 2026 (11:59pm PT). A separate abstract/poster deadline is Dec 1, 2026 (no extensions). Acceptance Sep 8; camera-ready Oct 1, 2026.",
       "location": {
         "raw": "Big Island, HI",
         "country": "United States",
@@ -85,89 +85,89 @@
       "abbreviation": "AHLI-CHIL",
       "fullName": "Association for Health Learning and Inference - Conference on Health, Inference, and Learning",
       "category": "Biomedical Informatics",
-      "submissionDeadline": "2026-02-05T04:59:00",
+      "submissionDeadline": null,
       "website": "https://chil.ahli.cc/",
-      "notes": null,
+      "notes": "CHIL 2027 is not yet announced (host city rotates among US cities; event typically late June). The paper deadline is typically ~early February (deadlines use Eastern Time).",
       "location": {
-        "raw": "Seattle, WA",
+        "raw": "United States (city TBA)",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/seattle",
-        "googleMapsUrl": "https://www.google.com/maps/search/Seattle%2C+WA",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/seattle-washington"
+        "unsplashUrl": "https://unsplash.com/s/photos/united-states",
+        "googleMapsUrl": "https://www.google.com/maps/search/United+States",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/united-states"
       },
-      "conferenceDateStart": "2026-06-28",
-      "conferenceDateEnd": "2026-06-30",
-      "conferenceDateDisplay": "Jun 28–30, 2026"
+      "conferenceDateStart": "2027-06-28",
+      "conferenceDateEnd": "2027-06-30",
+      "conferenceDateDisplay": "Late Jun 2027 (dates TBA)"
     },
     {
       "id": "ismb",
       "abbreviation": "ISMB",
       "fullName": "Intelligent Systems for Molecular Biology",
       "category": "Bioinformatics",
-      "submissionDeadline": "2026-01-21T04:59:00",
-      "website": "https://www.iscb.org/ismb2026/home",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://www.iscb.org/conferences-events/about-ismb",
+      "notes": "2027 is a joint ISMB/ECCB meeting in Copenhagen. The Call for Papers is not yet open; the proceedings (paper) deadline is typically ~mid-to-late January. The next standalone ISMB is 2028 (Calgary).",
       "location": {
-        "raw": "Washington, DC",
-        "country": "United States",
-        "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/washington-dc",
-        "googleMapsUrl": "https://www.google.com/maps/search/Washington%2C+DC",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/washington-dc"
+        "raw": "Copenhagen, Denmark",
+        "country": "Denmark",
+        "flagEmoji": "🇩🇰",
+        "unsplashUrl": "https://unsplash.com/s/photos/copenhagen-denmark",
+        "googleMapsUrl": "https://www.google.com/maps/search/Copenhagen%2C+Denmark",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/copenhagen-denmark"
       },
-      "conferenceDateStart": "2026-07-12",
-      "conferenceDateEnd": "2026-07-16",
-      "conferenceDateDisplay": "Jul 12–16, 2026"
+      "conferenceDateStart": "2027-07-18",
+      "conferenceDateEnd": "2027-07-22",
+      "conferenceDateDisplay": "Jul 18–22, 2027"
     },
     {
       "id": "eccb",
       "abbreviation": "ECCB",
       "fullName": "European Conference on Computational Biology",
       "category": "Bioinformatics",
-      "submissionDeadline": "2026-03-06T04:59:00",
-      "website": "https://eccb2026.org/",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://www.iscb.org/conferences-events/about-ismb",
+      "notes": "In 2027, ECCB is held jointly as ISMB/ECCB 2027 in Copenhagen — the same event as the ISMB entry. The proceedings deadline is typically ~mid-to-late January (not yet open). A standalone European ECCB returns in even years (next ~2028).",
       "location": {
-        "raw": "Geneva, Switzerland",
-        "country": "Switzerland",
-        "flagEmoji": "🇨🇭",
-        "unsplashUrl": "https://unsplash.com/s/photos/geneva-switzerland",
-        "googleMapsUrl": "https://www.google.com/maps/search/Geneva%2C+Switzerland",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/geneva-switzerland"
+        "raw": "Copenhagen, Denmark",
+        "country": "Denmark",
+        "flagEmoji": "🇩🇰",
+        "unsplashUrl": "https://unsplash.com/s/photos/copenhagen-denmark",
+        "googleMapsUrl": "https://www.google.com/maps/search/Copenhagen%2C+Denmark",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/copenhagen-denmark"
       },
-      "conferenceDateStart": "2026-08-31",
-      "conferenceDateEnd": "2026-09-04",
-      "conferenceDateDisplay": "Aug 31 – Sep 4, 2026"
+      "conferenceDateStart": "2027-07-18",
+      "conferenceDateEnd": "2027-07-22",
+      "conferenceDateDisplay": "Jul 18–22, 2027"
     },
     {
       "id": "recomb",
       "abbreviation": "RECOMB",
       "fullName": "Research in Computational Molecular Biology",
       "category": "Bioinformatics",
-      "submissionDeadline": "2025-11-21T04:59:00",
-      "website": "http://recomb.org/recomb2026/",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://recomb.org/",
+      "notes": "RECOMB 2027 is in Toronto (announced on the RECOMB 2026 site); exact dates are not yet posted (typically spring). Submission is two-stage: abstract (~early Nov 2026) then full paper (~mid-to-late Nov 2026, 23:59 AoE).",
       "location": {
-        "raw": "Thessaloniki, Greece",
-        "country": "Greece",
-        "flagEmoji": "🇬🇷",
-        "unsplashUrl": "https://unsplash.com/s/photos/thessaloniki-greece",
-        "googleMapsUrl": "https://www.google.com/maps/search/Thessaloniki%2C+Greece",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/thessaloniki-greece"
+        "raw": "Toronto, Canada",
+        "country": "Canada",
+        "flagEmoji": "🇨🇦",
+        "unsplashUrl": "https://unsplash.com/s/photos/toronto-canada",
+        "googleMapsUrl": "https://www.google.com/maps/search/Toronto%2C+Canada",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/toronto-ontario"
       },
-      "conferenceDateStart": "2026-05-26",
-      "conferenceDateEnd": "2026-05-29",
-      "conferenceDateDisplay": "May 26–29, 2026"
+      "conferenceDateStart": "2027-04-26",
+      "conferenceDateEnd": "2027-04-29",
+      "conferenceDateDisplay": "Spring 2027 (dates TBA)"
     },
     {
       "id": "bibm",
       "abbreviation": "BIBM",
       "fullName": "IEEE International Conference on Bioinformatics and Biomedicine",
       "category": "Bioinformatics",
-      "submissionDeadline": "2026-07-06T04:59:00",
+      "submissionDeadline": "2026-07-05T04:59:00",
       "website": "https://www3.cs.stonybrook.edu/~bibm2026/",
-      "notes": null,
+      "notes": "Full-paper deadline July 5, 2026 — IEEE BIBM frequently extends this, so verify closer to the date. Notification Sep 25; camera-ready Oct 25, 2026.",
       "location": {
         "raw": "Dallas, TX",
         "country": "United States",
@@ -178,76 +178,76 @@
       },
       "conferenceDateStart": "2026-12-01",
       "conferenceDateEnd": "2026-12-04",
-      "conferenceDateDisplay": "Dec 1-4, 2026"
+      "conferenceDateDisplay": "Dec 1–4, 2026"
     },
     {
       "id": "neurips",
       "abbreviation": "NeurIPS",
       "fullName": "Conference on Neural Information Processing Systems",
       "category": "Artificial Intelligence",
-      "submissionDeadline": "2026-05-08T04:59:00",
+      "submissionDeadline": null,
       "website": "https://neurips.cc/",
-      "notes": null,
+      "notes": "NeurIPS 2027 will be in Europe (city and dates not yet announced). Abstract and full-paper deadlines are typically ~mid-May (23:59 AoE); the event is typically early-to-mid December.",
       "location": {
-        "raw": "Sydney, Australia",
-        "country": "Australia",
-        "flagEmoji": "🇦🇺",
-        "unsplashUrl": "https://unsplash.com/s/photos/sydney-australia",
-        "googleMapsUrl": "https://www.google.com/maps/search/Sydney%2C+Australia",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/sydney-australia"
+        "raw": "Europe (city TBA)",
+        "country": "Europe (TBA)",
+        "flagEmoji": "🇪🇺",
+        "unsplashUrl": "https://unsplash.com/s/photos/europe",
+        "googleMapsUrl": "https://www.google.com/maps/search/Europe",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/search?q=Europe"
       },
-      "conferenceDateStart": "2026-12-06",
-      "conferenceDateEnd": "2026-12-12",
-      "conferenceDateDisplay": "Dec 6–12, 2026"
+      "conferenceDateStart": "2027-12-06",
+      "conferenceDateEnd": "2027-12-12",
+      "conferenceDateDisplay": "Dec 2027 (dates TBA)"
     },
     {
       "id": "icml",
       "abbreviation": "ICML",
       "fullName": "International Conference on Machine Learning",
       "category": "Artificial Intelligence",
-      "submissionDeadline": "2026-01-29T04:59:00",
-      "website": "https://icml.cc/Conferences/2026",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://icml.cc/",
+      "notes": "ICML 2027's location will be announced ~August 2026 (dates not yet set). Abstract and full-paper deadlines are typically ~late January (23:59 AoE); the event is typically mid-July.",
       "location": {
-        "raw": "Seoul, South Korea",
-        "country": "South Korea",
-        "flagEmoji": "🇰🇷",
-        "unsplashUrl": "https://unsplash.com/s/photos/seoul-south-korea",
-        "googleMapsUrl": "https://www.google.com/maps/search/Seoul%2C+South+Korea",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/seoul-south-korea"
+        "raw": "Location TBA",
+        "country": "TBA",
+        "flagEmoji": "🌐",
+        "unsplashUrl": "https://unsplash.com/s/photos/travel",
+        "googleMapsUrl": "https://www.google.com/maps",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/"
       },
-      "conferenceDateStart": "2026-07-06",
-      "conferenceDateEnd": "2026-07-11",
-      "conferenceDateDisplay": "Jul 6–11, 2026"
+      "conferenceDateStart": "2027-07-12",
+      "conferenceDateEnd": "2027-07-17",
+      "conferenceDateDisplay": "Jul 2027 (dates TBA)"
     },
     {
       "id": "iclr",
       "abbreviation": "ICLR",
       "fullName": "International Conference on Learning Representations",
       "category": "Artificial Intelligence",
-      "submissionDeadline": "2025-09-25T04:59:00",
-      "website": "https://iclr.cc/Conferences/2026",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://iclr.cc/",
+      "notes": "ICLR 2027 will be on the North American West Coast (city and dates not yet announced). Abstract and full-paper deadlines are typically ~late September (23:59 AoE) — likely posted soon; the event is typically late April.",
       "location": {
-        "raw": "Rio de Janeiro, Brazil",
-        "country": "Brazil",
-        "flagEmoji": "🇧🇷",
-        "unsplashUrl": "https://unsplash.com/s/photos/rio-de-janeiro",
-        "googleMapsUrl": "https://www.google.com/maps/search/Rio+de+Janeiro%2C+Brazil",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/rio-de-janeiro-brazil"
+        "raw": "West Coast, North America (TBA)",
+        "country": "TBA (USA/Canada)",
+        "flagEmoji": "🌎",
+        "unsplashUrl": "https://unsplash.com/s/photos/west-coast-usa",
+        "googleMapsUrl": "https://www.google.com/maps/search/West+Coast+United+States",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/search?q=west+coast"
       },
-      "conferenceDateStart": "2026-04-23",
-      "conferenceDateEnd": "2026-04-27",
-      "conferenceDateDisplay": "Apr 23–27, 2026"
+      "conferenceDateStart": "2027-04-26",
+      "conferenceDateEnd": "2027-04-30",
+      "conferenceDateDisplay": "Apr 2027 (dates TBA)"
     },
     {
       "id": "aaai",
       "abbreviation": "AAAI",
       "fullName": "AAAI Conference on Artificial Intelligence",
       "category": "Artificial Intelligence",
-      "submissionDeadline": "2026-08-02T04:59:00",
-      "website": "https://aaai.org/conference/aaai/aaai-26/",
-      "notes": null,
+      "submissionDeadline": "2026-07-28T04:59:00",
+      "website": "https://aaai.org/conference/aaai/aaai-27/",
+      "notes": "Two-phase deadline for AAAI-27: abstract/title July 21, 2026 and full paper July 28, 2026 (both 11:59pm AoE).",
       "location": {
         "raw": "Montréal, Canada",
         "country": "Canada",
@@ -265,229 +265,229 @@
       "abbreviation": "CVPR",
       "fullName": "IEEE/CVF Conference on Computer Vision and Pattern Recognition",
       "category": "Artificial Intelligence",
-      "submissionDeadline": "2025-11-14T04:59:00",
+      "submissionDeadline": null,
       "website": "https://cvpr.thecvf.com/",
-      "notes": null,
+      "notes": "CVPR 2027 is in Seattle, WA (Jun 20–24, 2027). The paper registration/submission deadline is typically ~mid-November (23:59 AoE); not yet posted.",
       "location": {
-        "raw": "Denver, CO",
+        "raw": "Seattle, WA",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/denver-colorado",
-        "googleMapsUrl": "https://www.google.com/maps/search/Denver%2C+CO",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/denver-colorado"
+        "unsplashUrl": "https://unsplash.com/s/photos/seattle",
+        "googleMapsUrl": "https://www.google.com/maps/search/Seattle%2C+WA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/seattle-washington"
       },
-      "conferenceDateStart": "2026-06-03",
-      "conferenceDateEnd": "2026-06-07",
-      "conferenceDateDisplay": "Jun 3–7, 2026"
+      "conferenceDateStart": "2027-06-20",
+      "conferenceDateEnd": "2027-06-24",
+      "conferenceDateDisplay": "Jun 20–24, 2027"
     },
     {
       "id": "acl",
       "abbreviation": "ACL",
       "fullName": "Annual Meeting of the Association for Computational Linguistics",
       "category": "Artificial Intelligence",
-      "submissionDeadline": "2026-01-06T04:59:00",
-      "website": "https://2026.aclweb.org/",
-      "notes": "Uses ACL Rolling Review submission system.",
+      "submissionDeadline": null,
+      "website": "https://www.aclweb.org/portal/acl",
+      "notes": "Uses the ACL Rolling Review (ARR) submission system. ACL 2027 is in the Asia-Pacific region (Japan reported, unconfirmed; dates not yet announced). Submission is via an ARR cycle whose deadline is typically a few months before the meeting (~February 2027).",
       "location": {
-        "raw": "San Diego, CA",
-        "country": "United States",
-        "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/san-diego-california",
-        "googleMapsUrl": "https://www.google.com/maps/search/San+Diego%2C+CA",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-diego-california"
+        "raw": "Asia-Pacific (city TBA)",
+        "country": "TBA (Japan reported)",
+        "flagEmoji": "🌏",
+        "unsplashUrl": "https://unsplash.com/s/photos/japan",
+        "googleMapsUrl": "https://www.google.com/maps/search/Japan",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/japan"
       },
-      "conferenceDateStart": "2026-07-02",
-      "conferenceDateEnd": "2026-07-07",
-      "conferenceDateDisplay": "Jul 2–7, 2026"
+      "conferenceDateStart": "2027-07-12",
+      "conferenceDateEnd": "2027-07-17",
+      "conferenceDateDisplay": "2027 (dates TBA)"
     },
     {
       "id": "emnlp",
       "abbreviation": "EMNLP",
       "fullName": "Conference on Empirical Methods in Natural Language Processing",
       "category": "Artificial Intelligence",
-      "submissionDeadline": "2026-05-26T04:59:00",
-      "website": "https://2026.emnlp.org/",
-      "notes": "Uses ACL Rolling Review submission system.",
+      "submissionDeadline": null,
+      "website": "https://www.aclweb.org/portal/emnlp",
+      "notes": "Uses the ACL Rolling Review (ARR) submission system. EMNLP 2027 is not yet announced (location and dates TBA). The ARR submission deadline is typically ~May (23:59 AoE); EMNLP is historically held November–December.",
       "location": {
-        "raw": "Budapest, Hungary",
-        "country": "Hungary",
-        "flagEmoji": "🇭🇺",
-        "unsplashUrl": "https://unsplash.com/s/photos/budapest-hungary",
-        "googleMapsUrl": "https://www.google.com/maps/search/Budapest%2C+Hungary",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/budapest-hungary"
+        "raw": "Location TBA",
+        "country": "TBA",
+        "flagEmoji": "🌐",
+        "unsplashUrl": "https://unsplash.com/s/photos/travel",
+        "googleMapsUrl": "https://www.google.com/maps",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/"
       },
-      "conferenceDateStart": "2026-10-24",
-      "conferenceDateEnd": "2026-10-29",
-      "conferenceDateDisplay": "Oct 24–29, 2026"
+      "conferenceDateStart": "2027-11-08",
+      "conferenceDateEnd": "2027-11-13",
+      "conferenceDateDisplay": "Late 2027 (dates TBA)"
     },
     {
       "id": "kdd",
       "abbreviation": "KDD",
       "fullName": "ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
       "category": "Artificial Intelligence",
-      "submissionDeadline": "2026-02-09T04:59:00",
-      "website": "https://kdd2026.kdd.org/",
-      "notes": "KDD has two submission cycles, first in February and second in July. ",
+      "submissionDeadline": "2026-07-26T04:59:00",
+      "website": "https://kdd2027.kdd.org/",
+      "notes": "Two submission cycles. KDD 2027 Cycle 1: abstract July 19, full paper July 26, 2026 (23:59 AoE). The Cycle 2 paper deadline is typically ~February 2027 (not yet posted).",
       "location": {
-        "raw": "Jeju, South Korea",
-        "country": "South Korea",
-        "flagEmoji": "🇰🇷",
-        "unsplashUrl": "https://unsplash.com/s/photos/jeju-island-south-korea",
-        "googleMapsUrl": "https://www.google.com/maps/search/Jeju%2C+South+Korea",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/jeju-si-south-korea"
+        "raw": "San Jose, CA",
+        "country": "United States",
+        "flagEmoji": "🇺🇸",
+        "unsplashUrl": "https://unsplash.com/s/photos/san-jose-california",
+        "googleMapsUrl": "https://www.google.com/maps/search/San+Jose%2C+CA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-jose-california"
       },
-      "conferenceDateStart": "2026-08-09",
-      "conferenceDateEnd": "2026-08-13",
-      "conferenceDateDisplay": "Aug 9–13, 2026"
+      "conferenceDateStart": "2027-08-09",
+      "conferenceDateEnd": "2027-08-13",
+      "conferenceDateDisplay": "Aug 2027 (dates TBC)"
     },
     {
       "id": "miccai",
       "abbreviation": "MICCAI",
       "fullName": "Medical Image Computing and Computer Assisted Intervention",
       "category": "Artificial Intelligence for Health",
-      "submissionDeadline": "2026-02-27T04:59:00",
-      "website": "https://conferences.miccai.org/2026/en/default.asp",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://miccai.org/index.php/events/upcoming-conferences/",
+      "notes": "MICCAI 2027 is in Auckland, New Zealand. Submission is two-stage: intent/abstract (~mid-to-late February) then full paper (~late February–early March 2027, 23:59 AoE); not yet posted.",
       "location": {
-        "raw": "Abu Dhabi, UAE",
-        "country": "United Arab Emirates",
-        "flagEmoji": "🇦🇪",
-        "unsplashUrl": "https://unsplash.com/s/photos/abu-dhabi",
-        "googleMapsUrl": "https://www.google.com/maps/search/Abu+Dhabi%2C+UAE",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/abu-dhabi-united-arab-emirates"
+        "raw": "Auckland, New Zealand",
+        "country": "New Zealand",
+        "flagEmoji": "🇳🇿",
+        "unsplashUrl": "https://unsplash.com/s/photos/auckland-new-zealand",
+        "googleMapsUrl": "https://www.google.com/maps/search/Auckland%2C+New+Zealand",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/auckland-new-zealand"
       },
-      "conferenceDateStart": "2026-10-04",
-      "conferenceDateEnd": "2026-10-08",
-      "conferenceDateDisplay": "Oct 4–8, 2026"
+      "conferenceDateStart": "2027-09-26",
+      "conferenceDateEnd": "2027-10-01",
+      "conferenceDateDisplay": "Sep 26 – Oct 1, 2027"
     },
     {
       "id": "midl",
       "abbreviation": "MIDL",
       "fullName": "Medical Imaging with Deep Learning",
       "category": "Artificial Intelligence for Health",
-      "submissionDeadline": "2025-12-11T04:59:00",
-      "website": "https://2026.midl.io/",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://www.midl.io/",
+      "notes": "MIDL 2027 will be in Europe (early July; city and dates not yet announced). Submission is two-stage: paper registration then full paper (~mid-December 2026–January 2027, 23:59 AoE); not yet posted.",
       "location": {
-        "raw": "Taipei, Taiwan",
-        "country": "Taiwan",
-        "flagEmoji": "🇹🇼",
-        "unsplashUrl": "https://unsplash.com/s/photos/taipei-taiwan",
-        "googleMapsUrl": "https://www.google.com/maps/search/Taipei%2C+Taiwan",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/taipei-taiwan"
+        "raw": "Europe (city TBA)",
+        "country": "Europe (TBA)",
+        "flagEmoji": "🇪🇺",
+        "unsplashUrl": "https://unsplash.com/s/photos/europe",
+        "googleMapsUrl": "https://www.google.com/maps/search/Europe",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/search?q=Europe"
       },
-      "conferenceDateStart": "2026-07-08",
-      "conferenceDateEnd": "2026-07-10",
-      "conferenceDateDisplay": "Jul 8–10, 2026"
+      "conferenceDateStart": "2027-07-07",
+      "conferenceDateEnd": "2027-07-09",
+      "conferenceDateDisplay": "Early Jul 2027 (dates TBA)"
     },
     {
       "id": "mlhc",
       "abbreviation": "MLHC",
       "fullName": "Machine Learning for Healthcare",
       "category": "Artificial Intelligence for Health",
-      "submissionDeadline": "2026-04-18T04:59:00",
-      "website": "https://www.mlforhc.org/",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://www.mlhc.org/",
+      "notes": "MLHC 2027 is not yet announced (venue rotates; recent hosts in the US). The full-paper deadline is typically ~mid-April, with a pre-submission/intent step ~1 week earlier; the event is typically mid-August.",
       "location": {
-        "raw": "Baltimore, MD",
+        "raw": "United States (city TBA)",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/baltimore-maryland",
-        "googleMapsUrl": "https://www.google.com/maps/search/Baltimore%2C+MD",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/baltimore-maryland"
+        "unsplashUrl": "https://unsplash.com/s/photos/united-states",
+        "googleMapsUrl": "https://www.google.com/maps/search/United+States",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/united-states"
       },
-      "conferenceDateStart": "2026-08-12",
-      "conferenceDateEnd": "2026-08-14",
-      "conferenceDateDisplay": "Aug 12–14, 2026"
+      "conferenceDateStart": "2027-08-13",
+      "conferenceDateEnd": "2027-08-15",
+      "conferenceDateDisplay": "Aug 2027 (dates TBA)"
     },
     {
       "id": "ahli-ml4h",
       "abbreviation": "AHLI-ML4H",
       "fullName": "Association for Health Learning and Inference - Machine Learning for Health Symposium",
       "category": "Artificial Intelligence for Health",
-      "submissionDeadline": "2025-09-09T04:59:00",
+      "submissionDeadline": "2026-09-11T04:59:00",
       "website": "https://ahli.cc/ml4h/",
-      "notes": null,
+      "notes": "ML4H 2026 is co-located with NeurIPS 2026 in Sydney. The submission deadline is Sep 11, 2026 per the official OpenReview venue (submissions open Aug 1; exact time to be confirmed, historically 23:59 AoE).",
       "location": {
-        "raw": "San Diego, CA",
-        "country": "United States",
-        "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/san-diego-california",
-        "googleMapsUrl": "https://www.google.com/maps/search/San+Diego%2C+CA",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-diego-california"
+        "raw": "Sydney, Australia",
+        "country": "Australia",
+        "flagEmoji": "🇦🇺",
+        "unsplashUrl": "https://unsplash.com/s/photos/sydney-australia",
+        "googleMapsUrl": "https://www.google.com/maps/search/Sydney%2C+Australia",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/sydney-australia"
       },
-      "conferenceDateStart": "2025-12-01",
-      "conferenceDateEnd": "2025-12-02",
-      "conferenceDateDisplay": "Dec 1–2, 2025"
+      "conferenceDateStart": "2026-12-06",
+      "conferenceDateEnd": "2026-12-07",
+      "conferenceDateDisplay": "Dec 6–7, 2026 (TBC)"
     },
     {
       "id": "ser",
       "abbreviation": "SER",
       "fullName": "Society for Epidemiologic Research Annual Meeting",
       "category": "Epidemiology",
-      "submissionDeadline": "2026-01-14T04:59:00",
+      "submissionDeadline": null,
       "website": "https://epiresearch.org/annual-meeting/",
-      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted. SER 2027 is in Detroit, MI; the abstract portal typically opens ~November and closes ~mid-January (2027 call not yet open).",
       "location": {
-        "raw": "Phoenix, AZ",
+        "raw": "Detroit, MI",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/phoenix-arizona",
-        "googleMapsUrl": "https://www.google.com/maps/search/Phoenix%2C+AZ",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/phoenix-arizona"
+        "unsplashUrl": "https://unsplash.com/s/photos/detroit-michigan",
+        "googleMapsUrl": "https://www.google.com/maps/search/Detroit%2C+MI",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/detroit-michigan"
       },
-      "conferenceDateStart": "2026-06-23",
-      "conferenceDateEnd": "2026-06-26",
-      "conferenceDateDisplay": "Jun 23–26, 2026"
+      "conferenceDateStart": "2027-06-15",
+      "conferenceDateEnd": "2027-06-18",
+      "conferenceDateDisplay": "Jun 15–18, 2027"
     },
     {
       "id": "apha",
       "abbreviation": "APHA",
       "fullName": "American Public Health Association Annual Meeting",
       "category": "Epidemiology",
-      "submissionDeadline": "2026-04-01T04:59:00",
+      "submissionDeadline": null,
       "website": "https://www.apha.org/events-and-meetings/annual",
-      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted. APHA 2027 is in Philadelphia, PA; abstract submission typically closes ~late March/early April (2027 call not yet open).",
       "location": {
-        "raw": "San Antonio, TX",
+        "raw": "Philadelphia, PA",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/san-antonio-texas",
-        "googleMapsUrl": "https://www.google.com/maps/search/San+Antonio%2C+TX",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-antonio-texas"
+        "unsplashUrl": "https://unsplash.com/s/photos/philadelphia",
+        "googleMapsUrl": "https://www.google.com/maps/search/Philadelphia%2C+PA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/philadelphia-pennsylvania"
       },
-      "conferenceDateStart": "2026-11-01",
-      "conferenceDateEnd": "2026-11-04",
-      "conferenceDateDisplay": "Nov 1–4, 2026"
+      "conferenceDateStart": "2027-11-07",
+      "conferenceDateEnd": "2027-11-10",
+      "conferenceDateDisplay": "Nov 7–10, 2027"
     },
     {
       "id": "aacr-annual",
       "abbreviation": "AACR Annual",
       "fullName": "American Association for Cancer Research Annual Meeting",
       "category": "Cancer Research",
-      "submissionDeadline": "2025-11-19T04:59:00",
-      "website": "https://www.aacr.org/meeting/aacr-annual-meeting-2026/",
-      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "submissionDeadline": null,
+      "website": "https://www.aacr.org/meeting/aacr-annual-meeting-2027/",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted. AACR 2027 is in Orlando, FL; the regular abstract deadline is typically ~mid-to-late November, with a separate late-breaking track ~mid-January (2027 call not yet open).",
       "location": {
-        "raw": "San Diego, CA",
+        "raw": "Orlando, FL",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/san-diego-california",
-        "googleMapsUrl": "https://www.google.com/maps/search/San+Diego%2C+CA",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/san-diego-california"
+        "unsplashUrl": "https://unsplash.com/s/photos/orlando-florida",
+        "googleMapsUrl": "https://www.google.com/maps/search/Orlando%2C+FL",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/orlando-florida"
       },
-      "conferenceDateStart": "2026-04-17",
-      "conferenceDateEnd": "2026-04-22",
-      "conferenceDateDisplay": "Apr 17–22, 2026"
+      "conferenceDateStart": "2027-04-02",
+      "conferenceDateEnd": "2027-04-07",
+      "conferenceDateDisplay": "Apr 2–7, 2027"
     },
     {
       "id": "asco-annual",
       "abbreviation": "ASCO Annual",
       "fullName": "American Society of Clinical Oncology Annual Meeting",
       "category": "Cancer Research",
-      "submissionDeadline": "2026-01-28T04:59:00",
+      "submissionDeadline": null,
       "website": "https://www.asco.org/annual-meeting",
-      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted. ASCO 2027 is in Chicago; the regular abstract deadline is typically ~late January/early February, with a separate late-breaking track ~early-to-mid March (2027 call not yet open).",
       "location": {
         "raw": "Chicago, IL",
         "country": "United States",
@@ -496,9 +496,9 @@
         "googleMapsUrl": "https://www.google.com/maps/search/Chicago%2C+IL",
         "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/chicago-illinois"
       },
-      "conferenceDateStart": "2026-05-29",
-      "conferenceDateEnd": "2026-06-02",
-      "conferenceDateDisplay": "May 29 – Jun 2, 2026"
+      "conferenceDateStart": "2027-06-04",
+      "conferenceDateEnd": "2027-06-08",
+      "conferenceDateDisplay": "Jun 4–8, 2027"
     },
     {
       "id": "bcac-annual",
@@ -507,58 +507,58 @@
       "category": "Cancer Research",
       "submissionDeadline": null,
       "website": "https://www.ccge.medschl.cam.ac.uk/breast-cancer-association-consortium-bcac/meetings",
-      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted. This is an invitation-based consortium meeting (with CIMBA/ENIGMA) — there is no public call for abstracts, only a registration deadline shortly before each meeting. The next edition is expected ~June 2027 in a rotating European city (not yet announced).",
       "location": {
-        "raw": "Budapest, Hungary",
-        "country": "Hungary",
-        "flagEmoji": "🇭🇺",
-        "unsplashUrl": "https://unsplash.com/s/photos/budapest-hungary",
-        "googleMapsUrl": "https://www.google.com/maps/search/Budapest%2C+Hungary",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/budapest-hungary"
+        "raw": "Europe (city TBA)",
+        "country": "Europe (TBA)",
+        "flagEmoji": "🇪🇺",
+        "unsplashUrl": "https://unsplash.com/s/photos/europe",
+        "googleMapsUrl": "https://www.google.com/maps/search/Europe",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/search?q=Europe"
       },
-      "conferenceDateStart": "2026-06-01",
-      "conferenceDateEnd": "2026-06-04",
-      "conferenceDateDisplay": "June 1–4, 2026"
+      "conferenceDateStart": "2027-06-14",
+      "conferenceDateEnd": "2027-06-18",
+      "conferenceDateDisplay": "Jun 2027 (dates TBA)"
     },
     {
       "id": "esmo",
       "abbreviation": "ESMO",
       "fullName": "European Society for Medical Oncology Congress",
       "category": "Cancer Research",
-      "submissionDeadline": "2026-05-13T04:59:00",
-      "website": "https://www.esmo.org/meeting-calendar/esmo-congress-2026",
-      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted.",
+      "submissionDeadline": null,
+      "website": "https://www.esmo.org/meeting-calendar/esmo-congress-2027",
+      "notes": "In epidemiology and public health, conference presentations are not considered peer-reviewed publications. So, only abstracts need to be submitted. ESMO Congress 2027 is in Barcelona (the congress shifts to September); the regular abstract deadline is typically ~early-to-mid May, with a separate late-breaking track ~August (2027 call not yet open).",
       "location": {
-        "raw": "Madrid, Spain",
+        "raw": "Barcelona, Spain",
         "country": "Spain",
         "flagEmoji": "🇪🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/madrid-spain",
-        "googleMapsUrl": "https://www.google.com/maps/search/Madrid%2C+Spain",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/madrid-spain"
+        "unsplashUrl": "https://unsplash.com/s/photos/barcelona-spain",
+        "googleMapsUrl": "https://www.google.com/maps/search/Barcelona%2C+Spain",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/barcelona-spain"
       },
-      "conferenceDateStart": "2026-10-23",
-      "conferenceDateEnd": "2026-10-27",
-      "conferenceDateDisplay": "Oct 23–27, 2026"
+      "conferenceDateStart": "2027-09-17",
+      "conferenceDateEnd": "2027-09-21",
+      "conferenceDateDisplay": "Sep 17–21, 2027"
     },
     {
       "id": "aspo",
       "abbreviation": "ASPO",
       "fullName": "American Society of Preventive Oncology Annual Meeting",
       "category": "Cancer Research",
-      "submissionDeadline": "2025-11-01T04:59:00",
-      "website": "https://aspo.org/2026-annual-meeting/",
-      "notes": null,
+      "submissionDeadline": null,
+      "website": "https://aspo.org/2027-annual-meeting/",
+      "notes": "ASPO 2027 is in Atlanta, GA (Emory Conference Center); the abstract deadline is typically ~late October/early November (2027 call not yet open).",
       "location": {
-        "raw": "Denver, CO",
+        "raw": "Atlanta, GA",
         "country": "United States",
         "flagEmoji": "🇺🇸",
-        "unsplashUrl": "https://unsplash.com/s/photos/denver-colorado",
-        "googleMapsUrl": "https://www.google.com/maps/search/Denver%2C+CO",
-        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/denver-colorado"
+        "unsplashUrl": "https://unsplash.com/s/photos/atlanta-georgia",
+        "googleMapsUrl": "https://www.google.com/maps/search/Atlanta%2C+GA",
+        "atlasObscuraUrl": "https://www.atlasobscura.com/things-to-do/atlanta-georgia"
       },
-      "conferenceDateStart": "2026-04-12",
-      "conferenceDateEnd": "2026-04-14",
-      "conferenceDateDisplay": "Apr 12–14, 2026"
+      "conferenceDateStart": "2027-04-11",
+      "conferenceDateEnd": "2027-04-13",
+      "conferenceDateDisplay": "Apr 11–13, 2027"
     }
   ]
 }
